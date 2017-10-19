@@ -6,8 +6,8 @@
     <ProjectGuid>{601E2C8B-2BBE-46BA-8215-6B04EDDAC850}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>numberformatting_net_test</RootNamespace>
-    <AssemblyName>numberformatting-net-test</AssemblyName>
+    <RootNamespace>NumberFormatter.Tests</RootNamespace>
+    <AssemblyName>NumberFormatter.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\numberformatter-net\numberformatter-net.csproj">
+    <ProjectReference Include="..\NumberFormatter\NumberFormatter.csproj">
       <Project>{6d804658-53d6-4ba3-8e4f-e5a654414829}</Project>
-      <Name>numberformatter-net</Name>
+      <Name>NumberFormatter</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

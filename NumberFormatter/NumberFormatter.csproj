@@ -8,8 +8,8 @@
     <ProjectGuid>{6D804658-53D6-4BA3-8E4F-E5A654414829}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>numberformatter_net</RootNamespace>
-    <AssemblyName>numberformatter-net</AssemblyName>
+    <RootNamespace>NumberFormatter</RootNamespace>
+    <AssemblyName>NumberFormatter</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

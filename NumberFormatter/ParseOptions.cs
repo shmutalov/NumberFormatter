@@ -1,4 +1,4 @@
-﻿namespace numberformatter_net
+﻿namespace NumberFormatter
 {
     public class ParseOptions
     {

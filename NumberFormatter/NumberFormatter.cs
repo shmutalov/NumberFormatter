@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace numberformatter_net
+namespace NumberFormatter
 {
     public static class NumberFormatter
     {

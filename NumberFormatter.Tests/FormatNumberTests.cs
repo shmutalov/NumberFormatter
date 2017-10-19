@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using numberformatter_net;
+using NumberFormatter;
 
-namespace numberformatting_net_test
+namespace NumberFormatter.Tests
 {
     [TestClass]
     public class FormatNumberTests

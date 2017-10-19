@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace numberformatter_net
+namespace NumberFormatter
 {
     internal class FormatData
     {
