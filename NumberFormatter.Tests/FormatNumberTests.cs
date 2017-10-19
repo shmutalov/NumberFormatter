@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NumberFormatter;
 
 namespace NumberFormatter.Tests
 {
